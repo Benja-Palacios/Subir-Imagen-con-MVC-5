@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagenAspNet", "ImagenAspNet.csproj", "{D31B7731-FAC7-4B60-AA99-64256B78B891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagenAspNet.Tests", "..\ImagenAspNet.Tests\ImagenAspNet.Tests.csproj", "{9ECB2D0B-23FB-4E22-988A-A206DC66DAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D31B7731-FAC7-4B60-AA99-64256B78B891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31B7731-FAC7-4B60-AA99-64256B78B891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31B7731-FAC7-4B60-AA99-64256B78B891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31B7731-FAC7-4B60-AA99-64256B78B891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECB2D0B-23FB-4E22-988A-A206DC66DAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECB2D0B-23FB-4E22-988A-A206DC66DAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECB2D0B-23FB-4E22-988A-A206DC66DAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECB2D0B-23FB-4E22-988A-A206DC66DAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D81BE93-8571-41DB-9A74-F175A1898835}
+	EndGlobalSection
+EndGlobal
